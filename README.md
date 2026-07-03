@@ -2,6 +2,8 @@
 
 A modern and lightweight task management application built with Expo and React Native.
 
+![Uploading photo_2026-07-03_22-55-16.jpg…]()
+
 ## Features
 
 * Clean and intuitive interface
