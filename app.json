@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TODOIT",
-    "slug": "TODOIT2",
+    "slug": "TODOIT",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
